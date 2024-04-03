@@ -102,3 +102,5 @@ print(classification_report(original_ytest, smote_prediction, target_names=label
 # average_precision = average_precision_score(original_ytest, y_score)
 
 # print('Average precision-recall score: {0:0.4f}'.format(average_precision))
+
+## dodal som veci
